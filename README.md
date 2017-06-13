@@ -1,2 +1,2 @@
 # test-repo
-this is a test repository for data science course.
+this is a test repository for my data science course.
